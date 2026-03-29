@@ -8,9 +8,9 @@
 
 ##### \- Course: Fundamentals of AI and ML
 
-##### \- Student Name: Altamash
+##### \- Student Name: Tanish Bhatia
 
-##### \- Registration Number: 25BAC10010
+##### \- Registration Number: 25BMR10009
 
 ##### \- Institution: Vellore Institute of Technology Bhopal (VIT - BHOPAL)
 
@@ -672,17 +672,17 @@ spam-detection-analysis/
 
 
 
-\*\*\[Altamash]\*\*
+\*\*\[Tanish Bhatia]\*\*
 
-\- Registration Number: \[25BAC10010]
+\- Registration Number: \[25BMR10009]
 
 \- Course: Fundamentals of AI and ML
 
 \- Institution: VIT BHOPAL
 
-\- Email: \[altamash.25bac10010@vitbhopal.ac.in]
+\- Email: \[tanishbhatia.25bmr10009@vitbhopal.ac.in]
 
-\- GitHub: \[github.com/altamash70/Project_spam-detection-analysis]
+\- GitHub: \[github.com/tanish422/project_spam_detection_analysis/]
 
 
 
